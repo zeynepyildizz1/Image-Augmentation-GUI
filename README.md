@@ -12,24 +12,9 @@ This is a Tkinter-based image augmentation tool that allows users to apply and f
 - Horizontal & vertical flips, channel shuffle, random 90° rotation
 - Batch processing for a folder of images
 
-## 🧰 Requirements
-
-- Python 3.7+
-- OpenCV (`opencv-python`)
-- Albumentations
-- Tkinter (comes with standard Python installation)
-
-Install requirements:
-```bash
-pip install -r requirements.txt```
-
 
 ## 🚀 Usage
 Edit the path_to_augmant and path_to_save variables in slider.py to match your image input/output folders.
-
-Run the script:
-
-python slider.py
 
 Use sliders to preview filters and apply them to all images in the folder.
 
