@@ -24,14 +24,12 @@ Install requirements:
 pip install -r requirements.txt
 
 
-🚀 Usage
+## 🚀 Usage
 Edit the path_to_augmant and path_to_save variables in slider.py to match your image input/output folders.
 
 Run the script:
 
-bash
-Kopyala
-Düzenle
 python slider.py
+
 Use sliders to preview filters and apply them to all images in the folder.
 
