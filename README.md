@@ -21,7 +21,7 @@ This is a Tkinter-based image augmentation tool that allows users to apply and f
 
 Install requirements:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 
 ## 🚀 Usage
